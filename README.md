@@ -64,7 +64,6 @@ httpd.serve_forever()
 # OUTPUT:
 ![OUTPUT](output.JPG)
 
-![WEB](/Webserver/output.JPG)
 
 # RESULT:
 
