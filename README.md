@@ -61,8 +61,10 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 
-## OUTPUT:
+# OUTPUT:
 ![OUTPUT](output.png)
+
+![WEB](/Webserver/output.png)
 
 # RESULT:
 
